@@ -1,0 +1,3 @@
+%{
+  "rational": {:hex, :qrational, "1.3.2", "f76f4c28691fc9a3db3c583b444811716330bc04030571bbd1e6c489d76fe038", [:mix], [], "hexpm", "d306ef5e7b211de060d502c5061d76a7913504b45ba1467698252fa1929b2f00"},
+}
